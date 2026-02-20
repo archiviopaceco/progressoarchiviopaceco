@@ -34,7 +34,7 @@ function renderProject(p){
   const partialOnlyW = clamp(coveragePct - completePct, 0, 100);
   const remainingW = clamp(100 - coveragePct, 0, 100);
 
-  const remaining = Math.max(0, total - safePartial);
+  const remaining = Math.max(0, total - safeComplete);
 
   const el = document.createElement("div");
   el.className = "proj";
@@ -48,7 +48,7 @@ function renderProject(p){
       <div class="projRight">
         <div><b>${coveragePct.toFixed(1)}%</b> copertura</div>
         <div><b>${completePct.toFixed(1)}%</b> completati</div>
-        <div>${fmt(safePartial)}/${fmt(total)} • rimanenti ${fmt(remaining)}</div>
+        <div>${fmt(safeComplete)}/${fmt(total)} • rimanenti ${fmt(remaining)}</div>
       </div>
     </div>
 
