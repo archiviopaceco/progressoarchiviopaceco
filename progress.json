@@ -1,5 +1,43 @@
+// progress.json
 {
-  "done": 229,
-  "total": 667,
-  "updated": "2026-02-20"
+  "updated": "20/02/2026",
+  "credit": "Raymond Vleeshouwer • dicembre 2025 – febbraio 2026",
+  "projects": [
+    {
+      "title": "Matrimoni — Paceco",
+      "range": "1682–1743",
+      "subtitle": "Volume 46 - 61 anni",
+      "total": 506,
+      "partial": 7,
+      "complete": 193,
+      "note": "Lavori temporaneamente sospesi"
+    },
+    {
+      "title": "Matrimoni — Paceco",
+      "range": "1748–1784",
+      "subtitle": "Volume 47 - 36 anni",
+      "total": 667,
+      "partial": 230,
+      "complete": 439,
+      "note": "Indicizzazione in corso"
+    },
+    {
+      "title": "Matrimoni — Paceco",
+      "range": "1784-1800",
+      "subtitle": "Volume 48 - 16 anni",
+      "total": 430,
+      "partial": 3118,
+      "complete": 312,
+      "note": "Indicizzazione in corso"
+    },
+    {
+      "title": "Matrimoni — Paceco",
+      "range": "1800-1815",
+      "subtitle": "Volume 49 - 15 anni",
+      "total": 540,
+      "partial": 0,
+      "complete": 0,
+      "note": "L'indicizzazione non è iniziata"
+    },
+  ]
 }
