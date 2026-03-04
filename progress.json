@@ -1,24 +1,24 @@
 {
-  "updated": "28/02/2026",
-  "credit": "Raymond Vleeshouwer • dicembre 2025 - febbraio 2026",
+  "updated": "04/03/2026",
+  "credit": "Raymond Vleeshouwer • dicembre 2025 - marzo 2026",
   "projects": [
     {
       "title": "Volume 46, Matrimoni - Paceco",
       "range": "1682-1743",
-      "subtitle": "Lavori temporaneamente sospesi",
+      "subtitle": "L'indicizzazione inizierà a breve",
       "total": 506,
       "partial": 506,
       "complete": 7,
-      "note": "Lavori temporaneamente sospesi"
+      "note": "L'indicizzazione inizierà a breve"
     },
     {
       "title": "Volume 47, Matrimoni - Paceco",
       "range": "1748-1784",
-      "subtitle": "Indicizzazione in corso",
+      "subtitle": "Indicizzazione completato",
       "total": 676,
       "partial": 676,
-      "complete": 592,
-      "note": "Indicizzazione in corso"
+      "complete": 676,
+      "note": "Indicizzazione completato"
     },
     {
       "title": "Volume 48, Matrimoni - Paceco",
@@ -32,7 +32,7 @@
     {
       "title": "Volume 49, Matrimoni - Paceco",
       "range": "1800-1815",
-      "subtitle": "Indicizzazione in corso",
+      "subtitle": "Lavori temporaneamente sospesi",
       "total": 537,
       "partial": 252,
       "complete": 0,
